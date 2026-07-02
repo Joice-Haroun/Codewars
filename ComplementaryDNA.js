@@ -23,4 +23,4 @@ switch (letter){
   return finalWord;
 }
 console.log(dnaStrand("ACGA"))
-console.log(dnaStrand("be"))
+console.log(dnaStrand(""))
