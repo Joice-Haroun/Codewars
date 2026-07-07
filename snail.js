@@ -8,3 +8,4 @@ if (minuties <= 525600){
   }
   return false;
 }
+console.log(canSnailReachEnd(28,10,11))
