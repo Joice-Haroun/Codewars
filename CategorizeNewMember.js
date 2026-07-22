@@ -1,3 +1,4 @@
+// codewarLink https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa
 function openOrSenior(data){
 let output = []
 for(let person of data){
