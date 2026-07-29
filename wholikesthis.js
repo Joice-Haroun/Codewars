@@ -14,3 +14,4 @@ else if ( names.length === 1){
   return `${names[0]}, ${names[1]} and ${rest.length} others like this`
 } 
 }
+console.log(likes(['joice','divin'])) 
