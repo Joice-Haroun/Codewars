@@ -8,3 +8,4 @@ for (let i = 0; i < arr.length; i++){
  return arr.join(" ")
 }
 console.log(spinWords("This is the Gym office"))
+console.log(spinWords("My name is Malaz"))

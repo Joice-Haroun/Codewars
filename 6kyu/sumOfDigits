@@ -1,0 +1,6 @@
+function digitalRoot(n) {
+let num = n.toString().split('')
+let result = num.reduce((sum,digit) => sum + Number(digit),0)
+return result
+}
+console.log(digitalRoot(15))
